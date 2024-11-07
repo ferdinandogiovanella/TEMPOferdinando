@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Climating</string>
+    <string name="cidade">com.example.myapp.cidade</string>
+    <string name="pesquisar_cidade">Pesquisar Cidade</string>
+</resources>
